@@ -1,3 +1,4 @@
+# ref: https://www.geeksforgeeks.org/required-minimum-digits-remove-number-make-perfect-square/
 # C++ program to find required minimum
 # digits need to remove to make a
 # number perfect square
